@@ -17,7 +17,7 @@
 
 第一轮：
 
-- 2010-04-05 到 2010-05-09 ：[《剑指 offer 67题》](http://www.thebetterkong.cn/2020/04/05/DataStructure-Algorithm/Finger-offer67/)，一刷
+- 2020-04-05 到 2020-05-09 ：[《剑指 offer 67题》](http://www.thebetterkong.cn/2020/04/05/DataStructure-Algorithm/Finger-offer67/)，一刷
 
 第二轮：
 
