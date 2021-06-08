@@ -50,6 +50,7 @@
 - 31、32、33、34、39、42、46、48、49、55
 - 56、62、64、72、75、76、78、79、84
 - 85、94、96、98、102、105、114
+- 124、128、136、416、322、518、377
 
 
 ---
@@ -73,7 +74,7 @@
 - [KMP 算法详讲](http://www.thebetterkong.cn/2020/10/02/DataStructure-Algorithm/KMP-Algorithm/)
 - [快速幂算法](http://www.thebetterkong.cn/2021/03/13/DataStructure-Algorithm/FastEponentiation-Algorithm/#more)
 - [TOP-K 问题](http://www.thebetterkong.cn/2021/03/21/DataStructure-Algorithm/TOP-K/)
-
+- [动态规划搭建 “摩天大厦”](http://www.thebetterkong.cn/2021/05/22/DataStructure-Algorithm/DynamicProgramming/)
 
 
 **让我们一起让算法成为一种习惯！**
