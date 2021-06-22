@@ -38,15 +38,15 @@
 // 那本题，也就相当于不断求这个下一个排列，直至不再存在时，即可
 
 /******************************* 题目代码 *******************************/
-package leetcode.editor.cn;
+package leetcode.editor.cn.finger_offer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class FingerOfferP38_StringAllPermutations {
+class P38_StringAllPermutations {
     public static void main(String[] args) {
-        Solution solution = new FingerOfferP38_StringAllPermutations().new Solution();
+        Solution solution = new P38_StringAllPermutations().new Solution();
         // TO TEST
         String s = "abc";
         String[] answer = solution.permutation(s);
