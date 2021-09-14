@@ -23,6 +23,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P2_AddTwoNumbers {
     public static void main(String[] args) {

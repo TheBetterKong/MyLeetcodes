@@ -19,6 +19,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P203_RemoveLinkedListElements {
     public static void main(String[] args) {

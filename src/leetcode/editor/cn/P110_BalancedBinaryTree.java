@@ -72,6 +72,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P110_BalancedBinaryTree {
     public static void main(String[] args) {

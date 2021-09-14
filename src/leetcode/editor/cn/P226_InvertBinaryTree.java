@@ -32,6 +32,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P226_InvertBinaryTree {
     public static void main(String[] args) {

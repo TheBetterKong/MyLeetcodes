@@ -51,6 +51,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P114_FlattenBinaryTreeToLinkedList {
     public static void main(String[] args) {

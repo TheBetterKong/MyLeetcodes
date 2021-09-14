@@ -41,6 +41,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P19_RemoveNthNodeFromEndOfList {
     public static void main(String[] args) {

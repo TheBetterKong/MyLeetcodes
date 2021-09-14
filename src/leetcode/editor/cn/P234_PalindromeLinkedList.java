@@ -32,6 +32,7 @@
 
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
+import leetcode.editor.cn.myDataStructure.*;
 
 class P234_PalindromeLinkedList {
     public static void main(String[] args) {

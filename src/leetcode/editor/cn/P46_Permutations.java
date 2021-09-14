@@ -42,9 +42,7 @@
 /******************************* 题目代码 *******************************/
 package leetcode.editor.cn;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 class P46_Permutations {
     public static void main(String[] args) {
